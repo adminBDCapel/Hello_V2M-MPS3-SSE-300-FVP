@@ -4,3 +4,4 @@
 *.cprj
 /out
 /tmp
+/csonarDatos
